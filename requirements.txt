@@ -1,3 +1,8 @@
 numpy
 pandas
--e .
+scikit-learn
+catboost
+xgboost
+seaborn
+prettytable
+# -e .
